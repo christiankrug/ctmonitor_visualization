@@ -1,20 +1,20 @@
 ```mermaid
 pie showData
 title total_counter
-"None" :124404330
+"None" :124404360
 ```
 ```mermaid
 pie showData
 title subject_public_key_info.algorithm
-"RSA" :86053516
-"ECDSA" :38350814
+"RSA" :86053539
+"ECDSA" :38350821
 ```
 ```mermaid
 pie showData
 title subject.cn.tld
 "tw" :49919
 "si" :14948
-"com" :68200824
+"com" :68200834
 "in" :178481
 "IN" :100
 "at" :108331
@@ -22,14 +22,14 @@ title subject.cn.tld
 "jp" :336404
 "site" :315084
 "kr" :129934
-"shop" :462841
+"shop" :462842
 "media" :9923
 "br" :289326
 "org" :2807506
 "au" :398762
 "cn" :923936
-"net" :4028301
-"io" :953198
+"net" :4028302
+"io" :953199
 "it" :178280
 "online" :352821
 "ca" :343375
@@ -150,7 +150,7 @@ title subject.cn.tld
 "guide" :1784
 "travel" :3560
 "BZ" :5
-"dev" :3949539
+"dev" :3949541
 "xn--p1acf" :470
 "coffee" :1621
 "bn" :235
@@ -469,7 +469,7 @@ title subject.cn.tld
 "download" :1316
 "dental" :568
 "tui" :137
-"tf" :6412
+"tf" :6413
 "insure" :602
 "pink" :546
 "sc" :809
@@ -1241,7 +1241,7 @@ title subject.cn.tld
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.exponent
-"65537" :86053354
+"65537" :86053377
 "3" :14
 "94779" :2
 "36327" :1
@@ -1373,7 +1373,7 @@ title issuer
 "VALID CERTIFICADORA DIGITAL" :182
 "SOLUTI - SOLUCOES EM NEGOCIOS INTELIGENTES S-A" :22
 "ATT Services Inc" :3437
-"Sectigo Limited" :9816235
+"Sectigo Limited" :9816236
 "DigiCert Inc" :154711
 "DigiCert Inc" :1224468
 "SSL Corporation" :48311
@@ -1397,12 +1397,12 @@ title issuer
 "Sectigo Limited" :47698
 "FUJIFILM" :154
 "DigiCert Inc" :226
-"DigiCert Inc" :11351994
+"DigiCert Inc" :11351996
 "UniTrust" :1121
 "DigiCert Inc" :456
 "Trust Provider B.V." :14072
 "The Trustico Group Ltd" :11160
-"DigiCert Inc" :8695000
+"DigiCert Inc" :8695003
 "DigiCert Inc" :70688
 "DigiCert Inc" :2430
 "GlobalSign nv-sa" :1420
@@ -1442,7 +1442,7 @@ title issuer
 "Nijimo K.K." :1004
 "DigiCert Inc" :31412
 "Sectigo Limited" :10587
-"Sectigo Limited" :5134976
+"Sectigo Limited" :5134982
 "DigiCert Inc" :19270
 "The USERTRUST Network" :2037
 "Internet2" :11474
@@ -1491,7 +1491,7 @@ title issuer
 "The Trustico Group Ltd" :114
 "Internet2" :5785
 "Network Solutions L.L.C." :842
-"Amazon" :24111598
+"Amazon" :24111608
 "WoTrus CA Limited" :2004
 "Disig a.s." :254
 "IZENPE S.A." :220
@@ -1675,8 +1675,8 @@ title issuer
 "DigiCert Inc" :34
 "Japan Registry Services Co., Ltd." :64076
 "Cisco Systems, Inc." :251360
-"Cloudflare, Inc." :11782086
-"Cloudflare, Inc." :32382406
+"Cloudflare, Inc." :11782087
+"Cloudflare, Inc." :32382407
 "nazwa.pl sp. z o.o." :168924
 "GEANT Vereniging" :322644
 "cPanel, Inc." :110469
@@ -1746,8 +1746,8 @@ title issuer
 "FNMT-RCM" :618
 "Abitab S.A." :155
 "Sectigo Limited" :294
-"Microsoft Corporation" :1474544
-"Microsoft Corporation" :1452271
+"Microsoft Corporation" :1474545
+"Microsoft Corporation" :1452276
 "Anson Network Limited" :33
 "Deutsche Kreditbank AG" :218
 "Nyatwork Communication Ltd" :229
@@ -2147,10 +2147,10 @@ title issuer
 ```mermaid
 pie showData
 title extensions.keyUsage
-"keyEncipherment" :119586417
-"digitalSignature" :117736425
+"keyEncipherment" :119586440
+"digitalSignature" :117736455
 "nonRepudiation" :33265324
-"dataEncipherment" :2421085
+"dataEncipherment" :2421091
 "keyAgreement" :265
 "cRLSign" :1
 "keyCertSign" :1
@@ -2158,35 +2158,35 @@ title extensions.keyUsage
 ```mermaid
 pie showData
 title extensions.basicConstraints.isCA
-"false" :120604285
+"false" :120604315
 "true" :150
 ```
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.curve
 "secp384r1" :296552
-"prime256v1" :38054260
+"prime256v1" :38054267
 "secp521r1" :2
 ```
 ```mermaid
 pie showData
 title extensions.certificatePolicies.type
-"OV" :66180153
-"DV" :57798516
+"OV" :66180164
+"DV" :57798535
 "EV" :291617
 ```
 ```mermaid
 pie showData
 title extensions.subjectAlternativeName
-"1" :46935862
+"1" :46935871
 "0" :426
-"2" :47427684
-"3" :24433508
+"2" :47427701
+"3" :24433509
 "5" :1056627
 "6" :348033
 "14" :12721
 "58" :993
-"4" :1483920
+"4" :1483922
 "12" :22351
 "9" :33590
 "29" :4912
@@ -2198,7 +2198,7 @@ title extensions.subjectAlternativeName
 "28" :3081
 "16" :15290
 "66" :762
-"13" :1214463
+"13" :1214464
 "18" :7734
 "15" :254443
 "24" :32100
@@ -2701,8 +2701,8 @@ title extensions.subjectAlternativeName
 ```mermaid
 pie showData
 title extensions.extendedKeyUsage
-"id_kp_serverAuth" :124403109
-"id_kp_clientAuth" :124106145
+"id_kp_serverAuth" :124403139
+"id_kp_clientAuth" :124106175
 "id_kp_ipsecEndSystem" :248
 "id_kp_emailProtection" :1089
 "2.16.840.1.113730.4.1" :2
@@ -2740,7 +2740,7 @@ title extensions.basicConstraints.pathLenConstraint
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.modulus
-"2048" :84801599
+"2048" :84801622
 "4096" :1190798
 "1024" :47
 "2047" :1
@@ -4257,7 +4257,7 @@ title validity_range
 "396" :2767839
 "405" :9
 "395" :5974347
-"394" :18817965
+"394" :18817975
 "454" :9
 "393" :490191
 "414" :10
@@ -4283,13 +4283,13 @@ title validity_range
 "383" :38117
 "409" :8
 "382" :38274
-"364" :22743734
+"364" :22743736
 "408" :12
 "381" :102803
 "380" :891152
 "417" :6
 "379" :274890
-"378" :689745
+"378" :689747
 "377" :112871
 "412" :8
 "421" :10
@@ -4304,15 +4304,15 @@ title validity_range
 "370" :72209
 "459" :8
 "369" :160439
-"368" :281681
+"368" :281682
 "367" :223721
 "366" :3028413
-"365" :57932179
+"365" :57932188
 "363" :94896
 "362" :32197
 "418" :9
 "361" :19809
-"360" :6032035
+"360" :6032039
 "359" :15634
 "358" :13859
 "357" :11307
@@ -4506,7 +4506,7 @@ title validity_range
 "182" :4544
 "181" :39152
 "179" :12715
-"180" :1464830
+"180" :1464832
 "178" :659
 "177" :441
 "176" :1118
@@ -4575,11 +4575,11 @@ title validity_range
 ```mermaid
 pie showData
 title sigalg
-"SHA256WITHRSA" :77579111
+"SHA256WITHRSA" :77579128
 "SHA1WITHRSA" :482
 "SHA384WITHECDSA" :31225
 "SHA512WITHRSA" :15821
-"SHA256WITHECDSA" :37594083
-"SHA384WITHRSA" :9183607
+"SHA256WITHECDSA" :37594090
+"SHA384WITHRSA" :9183613
 "RSAPSS" :1
 ```
