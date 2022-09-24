@@ -1,685 +1,685 @@
 ```mermaid
 pie showData
 title total_counter
-"None" :3355551390
+"None" :3356240910
 ```
 ```mermaid
 pie showData
 title subject_public_key_info.algorithm
-"RSA" :2872452232
-"ECDSA" :483099148
+"RSA" :2873052876
+"ECDSA" :483188024
 "DSS" :10
 ```
 ```mermaid
 pie showData
 title subject.cn.tld
-"tw" :2936742
-"si" :1555150
-"com" :1381713651
-"in" :18514351
+"tw" :2937082
+"si" :1555529
+"com" :1381958828
+"in" :18519392
 "IN" :462
-"at" :11716180
-"ru" :54528845
-"br" :48315930
-"org" :82004615
-"net" :123557336
-"jp" :16912020
-"uk" :61059279
-"ph" :940606
-"today" :587537
-"nz" :5957252
-"biz" :7213527
-"studio" :1185738
-"us" :10429210
-"ca" :20393846
-"solutions" :598886
-"cc" :4257200
-"au" :25950704
-"online" :14050580
-"shop" :9487521
-"domains" :189586
-"media" :782415
-"kr" :3741301
-"finance" :413432
-"mx" :7726357
-"directory" :75240
-"life" :3737649
-"bz" :258060
-"xyz" :28257558
-"co" :32478833
-"info" :16436981
-"estate" :63250
-"club" :5461854
-"my" :2272293
-"pg" :22623
-"site" :10079189
-"me" :29651595
-"eu" :19418965
-"cn" :14614413
-"live" :3467474
-"io" :63216512
-"de" :111506687
-"ws" :497801
-"press" :112902
-"center" :478823
-"store" :6773702
-"education" :259739
-"it" :22582194
-"cl" :7150709
-"rocks" :908539
-"xn--p1ai" :3779974
-"art" :1622779
-"space" :4497793
-"global" :343398
-"asia" :1321627
-"th" :927600
-"care" :266413
-"hk" :1303517
-"sg" :1763569
-"fr" :37448657
-"beer" :87399
-"cloud" :7610834
-"tech" :6790027
-"work" :2602906
-"tr" :3727212
-"wedding" :162140
-"healthcare" :37728
-"health" :189045
-"ie" :2193166
-"pro" :5575110
-"ltd" :614058
-"dk" :9026832
-"id" :10402979
-"es" :11353643
-"consulting" :213049
-"ro" :6997810
-"nl" :41636622
-"vn" :5593683
-"pl" :23489417
-"edu" :3427379
-"no" :8307440
-"dev" :17302775
-"se" :13867096
-"tv" :2543185
-"mobi" :809799
-"gov" :535296
-"il" :3162299
-"be" :14372878
-"su" :1317411
-"cz" :13252047
-"world" :1191519
-"click" :1005262
-"uno" :215993
-"community" :155645
-"faith" :32971
-"pt" :4051441
-"city" :475803
-"za" :14952718
-"aero" :223848
-"lv" :1192623
-"lu" :775646
-"amsterdam" :207720
-"company" :496385
+"at" :11718883
+"ru" :54544751
+"br" :48323574
+"org" :82018772
+"net" :123580678
+"jp" :16915184
+"uk" :61071942
+"ph" :940779
+"today" :587701
+"nz" :5958965
+"biz" :7214732
+"studio" :1185991
+"us" :10431576
+"ca" :20397711
+"solutions" :598989
+"cc" :4257795
+"au" :25956595
+"online" :14053425
+"shop" :9489646
+"domains" :189614
+"media" :782564
+"kr" :3741708
+"finance" :413480
+"mx" :7727936
+"directory" :75243
+"life" :3738063
+"bz" :258111
+"xyz" :28262076
+"co" :32485661
+"info" :16439980
+"estate" :63263
+"club" :5462807
+"my" :2272806
+"pg" :22631
+"site" :10081128
+"me" :29658249
+"eu" :19423046
+"cn" :14616398
+"live" :3468317
+"io" :63236073
+"de" :111527545
+"ws" :497878
+"press" :112926
+"center" :478903
+"store" :6775360
+"education" :259781
+"it" :22587048
+"cl" :7152587
+"rocks" :908686
+"xn--p1ai" :3781224
+"art" :1623155
+"space" :4498912
+"global" :343472
+"asia" :1321854
+"th" :927682
+"care" :266473
+"hk" :1303822
+"sg" :1764006
+"fr" :37456509
+"beer" :87427
+"cloud" :7612775
+"tech" :6791891
+"work" :2603361
+"tr" :3728287
+"wedding" :162164
+"healthcare" :37732
+"health" :189075
+"ie" :2193537
+"pro" :5576455
+"ltd" :614121
+"dk" :9028331
+"id" :10406428
+"es" :11356107
+"consulting" :213077
+"ro" :6999378
+"nl" :41646712
+"vn" :5595417
+"pl" :23492594
+"edu" :3427681
+"no" :8309058
+"dev" :17305041
+"se" :13869606
+"tv" :2544050
+"mobi" :810056
+"gov" :535323
+"il" :3162882
+"be" :14375771
+"su" :1317717
+"cz" :13254176
+"world" :1191790
+"click" :1005786
+"uno" :216036
+"community" :155665
+"faith" :32974
+"pt" :4054978
+"city" :475857
+"za" :14958036
+"aero" :223889
+"lv" :1192855
+"lu" :775824
+"amsterdam" :207733
+"company" :496467
 "lundbeck" :10
-"gs" :58360
-"events" :247752
-"gal" :49664
-"wine" :92005
-"army" :34466
-"expert" :245168
-"ch" :27144313
-"bzh" :107896
-"exchange" :109074
-"farm" :174885
-"coop" :173355
-"app" :9670513
-"support" :220173
-"team" :831076
-"uy" :579024
-"london" :194088
-"design" :1411143
-"business" :214384
-"gl" :55033
-"sv" :67705
-"lk" :524706
-"xn--80asehdb" :20459
-"hu" :9294073
-"ai" :1941426
-"ac" :130588
-"cyou" :496192
-"pet" :75942
-"cy" :174847
-"travel" :199759
-"agency" :1005839
-"direct" :9357641
-"int" :36131
-"capital" :162455
-"law" :99649
-"ae" :909732
-"py" :307468
-"digital" :1679489
-"bmw" :24004
-"cards" :60705
+"gs" :58368
+"events" :247810
+"gal" :49669
+"wine" :92022
+"army" :34475
+"expert" :245227
+"ch" :27149281
+"bzh" :107927
+"exchange" :109101
+"farm" :174921
+"coop" :173393
+"app" :9672660
+"support" :220214
+"team" :831202
+"uy" :579143
+"london" :194147
+"design" :1411356
+"business" :214403
+"gl" :55034
+"sv" :67715
+"lk" :524846
+"xn--80asehdb" :20469
+"hu" :9295431
+"ai" :1941986
+"ac" :130611
+"cyou" :496238
+"pet" :75946
+"cy" :174883
+"travel" :199804
+"agency" :1006102
+"direct" :9358583
+"int" :36135
+"capital" :162487
+"law" :99664
+"ae" :909963
+"py" :307502
+"digital" :1680222
+"bmw" :24006
+"cards" :60718
 "reit" :213
-"church" :369366
-"energy" :132168
-"ar" :6836651
-"la" :480209
-"bet" :220079
-"cr" :183993
-"pub" :177248
+"church" :369409
+"energy" :132193
+"ar" :6837403
+"la" :480331
+"bet" :220153
+"cr" :184036
+"pub" :177262
 "bank" :52267
-"xn--80aswg" :15398
-"pw" :1773482
-"is" :1002403
-"tj" :42931
-"moscow" :124670
-"ag" :173699
-"jobs" :74535
+"xn--80aswg" :15401
+"pw" :1773736
+"is" :1002576
+"tj" :42933
+"moscow" :124720
+"ag" :173743
+"jobs" :74544
 "COM" :40848
-"marketing" :211063
-"academy" :404787
-"bm" :27751
-"social" :253735
-"ci" :140889
-"solar" :71247
-"ad" :15492
-"love" :251375
-"re" :378369
-"ni" :26355
-"school" :220839
-"gr" :5674220
-"systems" :597799
-"software" :224743
-"gt" :209328
-"gg" :577946
-"group" :838452
-"fun" :2400654
-"aw" :4040
-"best" :404360
-"land" :178190
-"fit" :327966
-"tokyo" :859495
-"pe" :1411089
-"ec" :513895
-"photography" :418964
-"games" :363280
-"eco" :72234
-"link" :3698177
+"marketing" :211122
+"academy" :404871
+"bm" :27760
+"social" :253802
+"ci" :140931
+"solar" :71256
+"ad" :15494
+"love" :251426
+"re" :378461
+"ni" :26357
+"school" :220872
+"gr" :5675330
+"systems" :598023
+"software" :224775
+"gt" :209379
+"gg" :578042
+"group" :838585
+"fun" :2401032
+"aw" :4046
+"best" :404396
+"land" :178242
+"fit" :328025
+"tokyo" :859626
+"pe" :1411493
+"ec" :514181
+"photography" :419033
+"games" :363352
+"eco" :72244
+"link" :3700598
 "Nu" :4
-"tools" :421020
-"nyc" :351289
-"je" :54839
-"website" :2241989
-"construction" :44735
-"fi" :7671797
-"rs" :1721285
-"rip" :95014
-"vision" :89935
-"am" :301883
-"mn" :214111
-"kh" :43331
-"plus" :427638
-"kim" :65294
-"bn" :8074
-"coffee" :173250
-"plumbing" :11050
-"rentals" :65437
-"cool" :300995
-"guide" :104109
+"tools" :421076
+"nyc" :351346
+"je" :54849
+"website" :2242416
+"construction" :44736
+"fi" :7672895
+"rs" :1721519
+"rip" :95027
+"vision" :89949
+"am" :301969
+"mn" :214175
+"kh" :43335
+"plus" :427703
+"kim" :65302
+"bn" :8076
+"coffee" :173275
+"plumbing" :11051
+"rentals" :65446
+"cool" :301050
+"guide" :104133
 "BZ" :40
-"blog" :1132766
-"xn--p1acf" :126364
-"om" :31657
-"quebec" :33373
-"kw" :28307
+"blog" :1133107
+"xn--p1acf" :126406
+"om" :31671
+"quebec" :33374
+"kw" :28327
 "cba" :1084
-"jo" :29945
-"sa" :564990
-"network" :806751
-"fitness" :87360
-"bh" :20281
-"icu" :927927
-"sk" :3418788
-"vip" :3011566
-"gallery" :151064
+"jo" :29949
+"sa" :565090
+"network" :806879
+"fitness" :87375
+"bh" :20287
+"icu" :928108
+"sk" :3419260
+"vip" :3012241
+"gallery" :151076
 "mo" :20114
-"ua" :8917638
-"email" :522183
+"ua" :8919134
+"email" :522534
 "kpn" :279
-"ke" :1224481
-"gh" :72418
-"management" :69369
-"nu" :1748566
-"fj" :19861
+"ke" :1224845
+"gh" :72437
+"management" :69386
+"nu" :1748854
+"fj" :19865
 "Com" :682
-"eg" :64214
+"eg" :64231
 "gi" :12556
-"koeln" :84206
+"koeln" :84222
 "saxo" :267
-"video" :236967
-"ee" :2160199
-"bg" :1024331
-"pk" :1302379
-"scot" :77843
-"hr" :1260307
-"green" :103635
-"uz" :684550
+"video" :236989
+"ee" :2160638
+"bg" :1024483
+"pk" :1302730
+"scot" :77864
+"hr" :1260491
+"green" :103644
+"uz" :684752
 "gmo" :151
-"qa" :117788
+"qa" :117816
 "vegas" :39336
-"ntt" :1543
-"clinic" :97240
-"kz" :2178674
-"miami" :52270
-"cymru" :34217
-"st" :269296
-"one" :1416704
-"red" :206656
-"ng" :1775653
-"ma" :871559
-"ve" :180660
-"bo" :168086
-"dog" :101121
-"tz" :319437
-"bd" :309668
-"services" :481756
+"ntt" :1556
+"clinic" :97250
+"kz" :2179569
+"miami" :52278
+"cymru" :34219
+"st" :269331
+"one" :1416969
+"red" :206702
+"ng" :1775963
+"ma" :871729
+"ve" :180688
+"bo" :168108
+"dog" :101127
+"tz" :319598
+"bd" :309743
+"services" :481875
 "DE" :625
 "accountants" :7337
-"mv" :45887
-"photo" :230268
-"mc" :33225
-"delivery" :81943
-"lt" :1715601
-"mu" :87396
-"hn" :53756
-"tt" :23993
-"canon" :1236
-"repair" :34839
-"news" :488223
-"llc" :100998
+"mv" :45900
+"photo" :230317
+"mc" :33241
+"delivery" :81976
+"lt" :1716005
+"mu" :87409
+"hn" :53766
+"tt" :24000
+"canon" :1238
+"repair" :34847
+"news" :488268
+"llc" :101009
 "BR" :260
-"fm" :210415
-"training" :127427
-"berlin" :197475
+"fm" :210431
+"training" :127465
+"berlin" :197524
 "theater" :9395
-"do" :291324
+"do" :291397
 "museum" :8182
-"ao" :97400
-"ps" :71396
-"auction" :24055
-"ooo" :118568
-"legal" :101670
-"to" :48185379
-"vc" :362316
-"graphics" :48448
-"ist" :39153
-"zone" :651309
-"okinawa" :38213
-"technology" :209225
-"jewelry" :29634
+"ao" :97484
+"ps" :71416
+"auction" :24057
+"ooo" :118585
+"legal" :101694
+"to" :48198681
+"vc" :362385
+"graphics" :48460
+"ist" :39162
+"zone" :651440
+"okinawa" :38224
+"technology" :209261
+"jewelry" :29659
 "AU" :876
-"black" :51187
-"fund" :254633
+"black" :51192
+"fund" :254660
 "xn--3e0b707e" :5657
-"top" :6807166
-"bio" :173141
-"inc" :31026
+"top" :6808383
+"bio" :173228
+"inc" :31034
 "JP" :523
-"paris" :104916
-"study" :72221
-"bw" :67132
+"paris" :104935
+"study" :72248
+"bw" :67153
 "ryukyu" :3496
-"racing" :19760
-"page" :3415734
-"help" :183338
-"taxi" :53323
-"yokohama" :28405
-"ge" :438577
-"house" :188983
-"villas" :8313
-"by" :1742883
-"ba" :299734
-"eus" :126926
-"clothing" :62042
-"place" :76944
-"trade" :148498
+"racing" :19763
+"page" :3416814
+"help" :183366
+"taxi" :53330
+"yokohama" :28407
+"ge" :438745
+"house" :189002
+"villas" :8315
+"by" :1743555
+"ba" :299806
+"eus" :126962
+"clothing" :62049
+"place" :76960
+"trade" :148546
 "va" :211
 "supply" :42700
-"cat" :805192
-"yoga" :93999
-"li" :548114
+"cat" :805354
+"yoga" :94009
+"li" :548205
 "HK" :186
-"market" :211487
+"market" :211534
 "hsbc" :139
-"audio" :34552
-"as" :113604
-"mz" :95584
-"az" :340705
+"audio" :34563
+"as" :113616
+"mz" :95637
+"az" :340815
 "movie" :15124
-"so" :275136
-"bi" :35627
-"zw" :255253
-"earth" :162325
+"so" :275154
+"bi" :35631
+"zw" :255303
+"earth" :162354
 "cw" :7293
-"xn--80adxhks" :48222
-"ventures" :89225
+"xn--80adxhks" :48236
+"ventures" :89243
 "apple" :193
-"al" :252530
-"gmbh" :124697
-"name" :738472
+"al" :252581
+"gmbh" :124723
+"name" :738641
 "MY" :62
 "GOV" :2050
-"tours" :64688
-"express" :65985
+"tours" :64695
+"express" :65990
 "jll" :73
-"works" :330098
-"cab" :23884
-"jm" :13786
-"boutique" :133409
-"guru" :437029
-"band" :123477
-"host" :741576
-"dental" :49113
-"tc" :44212
-"build" :88795
-"watch" :100017
-"pa" :73767
-"win" :811115
-"mk" :313792
+"works" :330169
+"cab" :23891
+"jm" :13788
+"boutique" :133472
+"guru" :437144
+"band" :123498
+"host" :741706
+"dental" :49117
+"tc" :44216
+"build" :88812
+"watch" :100052
+"pa" :73782
+"win" :811261
+"mk" :313849
 "ORG" :2625
-"toys" :34847
-"cd" :23303
-"bayern" :99338
-"onl" :85514
-"menu" :69033
-"ml" :2730477
-"pics" :53310
-"money" :125240
-"yt" :42097
-"foundation" :124535
-"immo" :92986
-"alsace" :13811
-"enterprises" :29526
-"ninja" :498351
-"blue" :189675
-"pizza" :71758
-"tk" :3737957
-"bar" :223122
-"codes" :233994
-"gift" :39127
-"ga" :1710943
-"markets" :10760
+"toys" :34849
+"cd" :23316
+"bayern" :99350
+"onl" :85518
+"menu" :69038
+"ml" :2730898
+"pics" :53316
+"money" :125254
+"yt" :42107
+"foundation" :124570
+"immo" :92998
+"alsace" :13814
+"enterprises" :29537
+"ninja" :498529
+"blue" :189699
+"pizza" :71771
+"tk" :3738868
+"bar" :223184
+"codes" :234033
+"gift" :39136
+"ga" :1711235
+"markets" :10773
 "woodside" :1249
-"credit" :35471
-"ceo" :134476
-"wtf" :310055
-"sh" :642348
+"credit" :35479
+"ceo" :134477
+"wtf" :310151
+"sh" :642489
 "aws" :12211
-"kg" :142223
-"sarl" :11027
-"holdings" :29719
-"run" :2894869
-"im" :485551
-"report" :73690
-"cm" :204318
+"kg" :142254
+"sarl" :11035
+"holdings" :29722
+"run" :2895559
+"im" :485753
+"report" :73699
+"cm" :204349
 "rugby" :2745
 "fail" :29491
-"fashion" :84555
+"fashion" :84569
 "BIZ" :161
-"cf" :1624049
-"gy" :34531
-"hamburg" :60270
-"ovh" :1141558
-"football" :26925
-"beauty" :53074
-"buzz" :920245
-"kyoto" :11712
+"cf" :1624335
+"gy" :34535
+"hamburg" :60279
+"ovh" :1141787
+"football" :26937
+"beauty" :53091
+"buzz" :920470
+"kyoto" :11716
 "statefarm" :24133
-"et" :39614
-"limited" :36140
-"men" :87714
-"vet" :76649
-"cash" :154459
-"science" :111127
-"mm" :49925
-"mt" :109951
+"et" :39646
+"limited" :36145
+"men" :87717
+"vet" :76656
+"cash" :154473
+"science" :111146
+"mm" :49936
+"mt" :109970
 "pictet" :779
-"partners" :71524
+"partners" :71548
 "audi" :4193
-"ms" :114637
-"ly" :266893
-"international" :102659
-"engineering" :95370
-"coach" :138762
+"ms" :114653
+"ly" :266913
+"international" :102683
+"engineering" :95396
+"coach" :138784
 "infiniti" :78
-"gq" :843977
-"film" :49970
-"lol" :196534
-"homes" :77675
-"vlaanderen" :40115
-"iq" :42158
-"tax" :57463
-"sx" :33682
-"rest" :144417
-"fyi" :156076
+"gq" :844131
+"film" :49979
+"lol" :196622
+"homes" :77694
+"vlaanderen" :40124
+"iq" :42162
+"tax" :57469
+"sx" :33688
+"rest" :144450
+"fyi" :156097
 "man" :1804
-"africa" :256623
-"tn" :306486
-"gold" :219157
-"surf" :100100
-"ink" :333752
-"cam" :164064
-"md" :493948
-"pr" :11219
-"xxx" :65039
-"stream" :145998
+"africa" :256710
+"tn" :306565
+"gold" :219196
+"surf" :100106
+"ink" :333815
+"cam" :164080
+"md" :494064
+"pr" :11224
+"xxx" :65055
+"stream" :146024
 "amazon" :86
 "contact" :41204
-"party" :171116
-"lc" :39729
-"ht" :28496
-"careers" :44246
-"lb" :28189
-"archi" :27866
-"dating" :33042
-"ky" :39821
-"lawyer" :23446
-"wien" :79553
-"xn--tckwe" :8326
-"limo" :7823
-"computer" :42536
-"nagoya" :33147
+"party" :171144
+"lc" :39732
+"ht" :28503
+"careers" :44257
+"lb" :28206
+"archi" :27872
+"dating" :33047
+"ky" :39827
+"lawyer" :23452
+"wien" :79573
+"xn--tckwe" :8332
+"limo" :7827
+"computer" :42539
+"nagoya" :33151
 "recipes" :21040
 "reisen" :17057
-"moe" :210750
-"show" :164727
-"monster" :422541
-"lgbt" :23512
+"moe" :210787
+"show" :164747
+"monster" :422603
+"lgbt" :23518
 "mil" :14226
-"realty" :334171
-"sport" :7738
-"casa" :1650289
-"bj" :32227
-"tienda" :16533
-"np" :557739
-"haus" :60815
-"bt" :23352
-"swiss" :169333
-"brussels" :52813
+"realty" :334217
+"sport" :7746
+"casa" :1650380
+"bj" :32234
+"tienda" :16536
+"np" :557935
+"haus" :60835
+"bt" :23362
+"swiss" :169373
+"brussels" :52819
 "bbva" :60
-"financial" :46511
-"bike" :105946
-"wales" :57623
-"sb" :10383
-"cx" :201394
-"dance" :69951
-"glass" :20663
-"radio" :18078
-"lat" :44356
+"financial" :46518
+"bike" :105971
+"wales" :57636
+"sb" :10387
+"cx" :201420
+"dance" :69960
+"glass" :20670
+"radio" :18098
+"lat" :44365
 "cooking" :12863
-"wiki" :171278
-"download" :63649
-"tf" :62776
+"wiki" :171302
+"download" :63655
+"tf" :62786
 "tui" :565
-"insure" :33642
-"pink" :59539
-"sc" :57098
-"security" :7587
-"deals" :52975
-"style" :110753
-"vg" :22035
-"parts" :28562
-"tube" :34039
+"insure" :33661
+"pink" :59541
+"sc" :57106
+"security" :7589
+"deals" :52990
+"style" :110774
+"vg" :22043
+"parts" :28571
+"tube" :34043
 "forum" :1883
-"xn--90ais" :71539
-"productions" :73304
-"properties" :65225
-"realestate" :43481
-"reviews" :85890
+"xn--90ais" :71559
+"productions" :73314
+"properties" :65233
+"realestate" :43486
+"reviews" :85897
 "car" :2530
-"chat" :224346
+"chat" :224375
 "shoes" :20946
-"tel" :157141
+"tel" :157151
 "kpmg" :73
-"vote" :27024
-"rent" :45291
-"fish" :46600
-"quest" :162888
-"melbourne" :31765
-"wang" :112877
-"mba" :30024
-"sap" :64338
-"ax" :56853
-"camera" :18710
-"kiwi" :64569
-"ug" :104399
-"loan" :32356
-"investments" :22792
+"vote" :27033
+"rent" :45300
+"fish" :46609
+"quest" :162922
+"melbourne" :31769
+"wang" :112884
+"mba" :30028
+"sap" :64343
+"ax" :56862
+"camera" :18720
+"kiwi" :64573
+"ug" :104427
+"loan" :32360
+"investments" :22794
 "bingo" :11152
-"cpa" :17662
-"ki" :4585
+"cpa" :17676
+"ki" :4589
 "INT" :18
-"luxe" :7266
-"sm" :17571
-"family" :225013
-"fan" :34481
-"game" :31369
-"attorney" :10080
-"golf" :68840
-"gd" :117201
+"luxe" :7270
+"sm" :17573
+"family" :225075
+"fan" :34482
+"game" :31373
+"attorney" :10081
+"golf" :68846
+"gd" :117236
 "CL" :80
-"bid" :108349
-"sn" :75591
+"bid" :108359
+"sn" :75624
 "NET" :3494
 "dealer" :324
-"fo" :65230
-"schule" :45595
-"holiday" :20462
-"casino" :72811
+"fo" :65238
+"schule" :45598
+"holiday" :20468
+"casino" :72822
 "contractors" :11487
-"sr" :19559
-"town" :52132
-"ruhr" :27555
-"institute" :72364
-"organic" :12316
-"sale" :126855
+"sr" :19568
+"town" :52146
+"ruhr" :27556
+"institute" :72373
+"organic" :12320
+"sale" :126931
 "fox" :1897
-"cafe" :202452
+"cafe" :202547
 "adult" :5028
-"corsica" :14419
-"lighting" :24505
-"tm" :20516
-"voyage" :15193
+"corsica" :14422
+"lighting" :24509
+"tm" :20518
+"voyage" :15196
 "weir" :2814
-"xn--fiqs8s" :13095
-"ne" :6774
-"salon" :37223
-"hosting" :114400
-"poker" :18584
+"xn--fiqs8s" :13097
+"ne" :6776
+"salon" :37239
+"hosting" :114424
+"poker" :18586
 "xn--mgbaam7a8h" :85
-"tips" :107870
-"pf" :21658
-"xin" :44646
+"tips" :107888
+"pf" :21659
+"xin" :44654
 "auspost" :503
-"na" :103421
-"auto" :7505
-"moda" :53536
-"af" :48910
-"nrw" :65728
+"na" :103430
+"auto" :7507
+"moda" :53549
+"af" :48926
+"nrw" :65742
 "PRO" :4
 "QA" :84
 "NO" :44
-"fans" :37187
+"fans" :37195
 "UK" :757
-"garden" :31270
-"pictures" :71195
-"bs" :8473
+"garden" :31275
+"pictures" :71202
+"bs" :8475
 "SE" :125
-"flowers" :9520
-"zm" :39807
-"loans" :19800
+"flowers" :9523
+"zm" :39827
+"loans" :19803
 "mortgage" :16009
-"frl" :66430
-"accountant" :7026
+"frl" :66434
+"accountant" :7027
 "Org" :83
-"nc" :89456
-"pm" :104514
+"nc" :89522
+"pm" :104548
 "xn--ses554g" :795
-"restaurant" :42885
-"university" :46978
-"srl" :80732
-"gifts" :38341
-"charity" :12858
-"dz" :138200
+"restaurant" :42896
+"university" :46991
+"srl" :80785
+"gifts" :38349
+"charity" :12860
+"dz" :138214
 "vi" :3065
 "abbott" :3002
 "ikano" :695
-"photos" :161187
-"rw" :103382
-"tirol" :58069
+"photos" :161213
+"rw" :103441
+"tirol" :58084
 "brother" :189
-"sz" :12057
-"camp" :68333
+"sz" :12061
+"camp" :68344
 "clubmed" :1427
-"saarland" :18125
+"saarland" :18127
 "nr" :626
-"ngo" :35294
-"dentist" :10356
-"irish" :21442
+"ngo" :35324
+"dentist" :10358
+"irish" :21464
 "krd" :10743
-"promo" :58043
-"discount" :10237
+"promo" :58047
+"discount" :10239
 "EDU" :1271
 "CA" :1627
-"actor" :14055
-"baby" :26470
+"actor" :14057
+"baby" :26474
 "toyota" :345
-"tl" :22296
+"tl" :22314
 "viajes" :6860
-"boston" :10371
+"boston" :10374
 "tatar" :5248
-"kitchen" :52387
-"vin" :36621
-"christmas" :6753
+"kitchen" :52404
+"vin" :36624
+"christmas" :6755
 "trading" :11789
-"review" :107969
-"ski" :37987
-"navy" :11048
+"review" :107991
+"ski" :37997
+"navy" :11052
 "pharmacy" :1844
-"xn--j1amh" :35861
-"autos" :22403
+"xn--j1amh" :35868
+"autos" :22408
 "teva" :431
-"gives" :14671
+"gives" :14673
 "vacations" :12420
-"florist" :49668
-"tg" :25968
-"cleaning" :18141
-"doctor" :45735
+"florist" :49672
+"tg" :25969
+"cleaning" :18146
+"doctor" :45738
 "suzuki" :203
 "porn" :15391
-"new" :21711
-"gay" :182500
+"new" :21714
+"gay" :182509
 "webcam" :14956
 "SA" :194
 "KW" :34
@@ -688,33 +688,33 @@ title subject.cn.tld
 "afl" :360
 "sbi" :589
 "sky" :2077
-"mw" :15910
-"xn--d1acj3b" :5277
+"mw" :15912
+"xn--d1acj3b" :5278
 "AR" :70
 "CN" :57
 "NL" :246
-"wf" :40046
-"bot" :18655
+"wf" :40053
+"bot" :18657
 "sexy" :24799
-"mg" :72619
-"ren" :52365
-"physio" :10557
-"vu" :172948
+"mg" :72649
+"ren" :52372
+"physio" :10560
+"vu" :172959
 "mp" :8932
-"cg" :10157
-"ls" :17846
+"cg" :10161
+"ls" :17851
 "bb" :7320
-"hair" :17650
+"hair" :17653
 "IT" :206
 "Gov" :112
 "sncf" :578
 "neustar" :1052
-"builders" :43812
-"cricket" :9572
+"builders" :43818
+"cricket" :9573
 "pfizer" :136
-"sydney" :27940
-"associates" :19667
-"college" :19517
+"sydney" :27944
+"associates" :19668
+"college" :19519
 "US" :411
 "fk" :672
 "godaddy" :210
@@ -725,31 +725,31 @@ title subject.cn.tld
 "ck" :3742
 "globo" :2459
 "nissan" :86
-"horse" :29400
+"horse" :29408
 "xn--mgberp4a5d4ar" :728
-"soy" :12823
-"xn--c1avg" :3180
-"how" :27501
+"soy" :12827
+"xn--c1avg" :3181
+"how" :27509
 "dm" :4840
 "cbs" :55
-"date" :46806
+"date" :46817
 "kn" :3140
-"diamonds" :10291
-"shopping" :45142
+"diamonds" :10297
+"shopping" :45148
 "nikon" :4
-"rehab" :13248
+"rehab" :13252
 "temasek" :48
-"barcelona" :19964
-"skin" :18002
-"observer" :10432
+"barcelona" :19970
+"skin" :18005
+"observer" :10433
 "lamborghini" :517
 "tickets" :1850
 "sony" :101
-"gm" :12007
-"immobilien" :18719
-"jetzt" :69137
+"gm" :12009
+"immobilien" :18725
+"jetzt" :69152
 "reise" :3293
-"kaufen" :16770
+"kaufen" :16772
 "tennis" :9084
 "singles" :13404
 "xn--mk1bu44c" :3230
@@ -757,44 +757,44 @@ title subject.cn.tld
 "itau" :168
 "SG" :401
 "hiphop" :2016
-"gp" :10281
+"gp" :10283
 "tires" :5823
 "ye" :6063
 "total" :1015
 "EU" :187
 "barclaycard" :275
 "barclays" :1093
-"property" :12366
+"property" :12367
 "bnpparibas" :2227
 "surgery" :11218
-"cv" :26158
-"engineer" :42134
-"exposed" :12852
+"cv" :26167
+"engineer" :42147
+"exposed" :12863
 "xn--90ae" :7285
 "catering" :15357
 "MX" :75
-"vodka" :7123
+"vodka" :7128
 "hermes" :415
 "taipei" :8856
-"ong" :10948
-"cologne" :14526
+"ong" :10949
+"cologne" :14531
 "km" :1054
-"gratis" :22462
+"gratis" :22468
 "JM" :4
-"claims" :12855
+"claims" :12861
 "gucci" :157
 "bridgestone" :329
 "versicherung" :3645
-"istanbul" :18021
+"istanbul" :18032
 "playstation" :39
-"goog" :361274
+"goog" :361314
 "xn--qxa6a" :261
 "xn--e1a4c" :2094
 "dj" :17677
-"equipment" :14377
+"equipment" :14379
 "fishing" :7457
-"republican" :4516
-"industries" :36721
+"republican" :4517
+"industries" :36726
 "xn--q9jyb4c" :4675
 "Lighting" :2
 "SALE" :7
@@ -803,70 +803,70 @@ title subject.cn.tld
 "futbol" :10877
 "gop" :6561
 "honda" :127
-"realtor" :107905
-"hospital" :6325
-"cfd" :109471
-"gdn" :12540
+"realtor" :107915
+"hospital" :6328
+"cfd" :109562
+"gdn" :12542
 "ONLINE" :12
-"sl" :10482
-"courses" :19589
+"sl" :10484
+"courses" :19596
 "madrid" :8204
 "xn--9dbq2a" :2031
 "forsale" :23449
 "mq" :3083
 "AE" :138
-"dvag" :13039
+"dvag" :13040
 "RU" :82
 "EMAIL" :7
-"supplies" :16337
+"supplies" :16341
 "apartments" :20763
 "PH" :77
 "compare" :1412
-"xn--h2brj9c" :1829
+"xn--h2brj9c" :1831
 "desi" :7627
 "orange" :3784
-"country" :6079
-"cheap" :18670
+"country" :6082
+"cheap" :18673
 "TR" :14
 "dhl" :625
 "hockey" :7028
-"sex" :16211
+"sex" :16213
 "democrat" :4712
 "blackfriday" :1557
 "sucks" :2232
-"diet" :4408
+"diet" :4413
 "degree" :3677
 "xn--fiq228c5hs" :218
 "lease" :11595
-"osaka" :6513
+"osaka" :6517
 "sakura" :30
-"capetown" :23742
-"bargains" :7747
-"joburg" :14343
+"capetown" :23749
+"bargains" :7751
+"joburg" :14345
 "xn--ngbc5azd" :683
 "flights" :9407
 "xn--6qq986b3xl" :10437
-"durban" :8960
-"sbs" :176727
-"rodeo" :14305
-"bond" :92729
+"durban" :8962
+"sbs" :176780
+"rodeo" :14309
+"bond" :92806
 "cruises" :5271
 "mango" :136
-"mom" :20066
+"mom" :20070
 "coupons" :10311
 "abogado" :1715
-"xn--qxam" :6077
+"xn--qxam" :6079
 "vanguard" :322
-"tattoo" :43233
+"tattoo" :43237
 "xn--j6w193g" :6141
-"airforce" :3771
+"airforce" :3773
 "gf" :2954
-"nf" :61784
+"nf" :61800
 "forex" :2604
-"sd" :55339
+"sd" :55343
 "memorial" :5863
 "creditcard" :5502
-"broker" :7046
+"broker" :7048
 "crs" :3587
 "jnj" :2342
 "citic" :246
@@ -875,15 +875,15 @@ title subject.cn.tld
 "aeg" :5
 "leclerc" :3296
 "trust" :30
-"ir" :6099668
+"ir" :6101693
 "LONDON" :6
 "lidl" :557
 "ltda" :2820
 "bf" :15738
-"luxury" :6494
+"luxury" :6495
 "Dk" :4
 "insurance" :2067
-"furniture" :18979
+"furniture" :18980
 "yachts" :4121
 "next" :1019
 "sandvik" :409
@@ -898,36 +898,36 @@ title subject.cn.tld
 "post" :819
 "CO" :66
 "aquarelle" :92
-"makeup" :10804
+"makeup" :10808
 "Biz" :145
 "FR" :151
 "schwarz" :3376
-"day" :31714
-"mr" :9945
-"bible" :25851
+"day" :31728
+"mr" :9948
+"bible" :25853
 "NETWORK" :16
 "monash" :324
-"abudhabi" :1259
+"abudhabi" :1261
 "RENTALS" :3
-"gent" :56725
+"gent" :56735
 "shiksha" :2809
 "ES" :320
 "hm" :4623
 "香港" :24
-"maison" :6822
+"maison" :6823
 "moi" :499
-"xn--6frz82g" :6638
-"career" :4653
+"xn--6frz82g" :6639
+"career" :4657
 "jpmorgan" :4
-"sy" :23454
+"sy" :23455
 "CBA" :48
 "toray" :258
 "xn--czrs0t" :200
 "uol" :188
-"td" :5286
+"td" :5287
 "juegos" :1014
 "bradesco" :585
-"storage" :2500
+"storage" :2508
 "williamhill" :22
 "TH" :83
 "scb" :140
@@ -937,7 +937,7 @@ title subject.cn.tld
 "xn--g2xx48c" :103
 "Net" :75
 "xn--mgbab2bd" :206
-"xn--rhqv96g" :540
+"xn--rhqv96g" :542
 "select" :809
 "erni" :116
 "gripe" :1415
@@ -946,7 +946,7 @@ title subject.cn.tld
 "schaeffler" :2519
 "komatsu" :668
 "anz" :343
-"cars" :2723
+"cars" :2726
 "ZA" :120
 "FI" :112
 "BE" :108
@@ -973,8 +973,8 @@ title subject.cn.tld
 "uK" :15
 "TW" :261
 "praxi" :6
-"xn--io0a7i" :1285
-"lr" :4372
+"xn--io0a7i" :1286
+"lr" :4373
 "BH" :22
 "MU" :10
 "RE" :2
@@ -990,7 +990,7 @@ title subject.cn.tld
 "voto" :1737
 "pn" :1915
 "aq" :1165
-"ss" :2074
+"ss" :2075
 "lilly" :59
 "azure" :191
 "SI" :16
@@ -1002,17 +1002,17 @@ title subject.cn.tld
 "motorcycles" :2705
 "axa" :249
 "seat" :588
-"rio" :10221
+"rio" :10229
 "sanofi" :242
 "nico" :153
 "ipiranga" :41
 "xn--3ds443g" :342
 "CAFE" :3
-"xn--node" :719
+"xn--node" :720
 "xn--vuq861b" :146
-"kred" :1168127
+"kred" :1168219
 "zuerich" :3469
-"shell" :1862
+"shell" :1865
 "MD" :4
 "NZ" :77
 "microsoft" :52
@@ -1033,7 +1033,7 @@ title subject.cn.tld
 "med" :316
 "VN" :35
 "smart" :48
-"xn--y9a3aq" :2760
+"xn--y9a3aq" :2762
 "mma" :85
 "xn--otu796d" :76
 "xn--czru2d" :102
@@ -1042,9 +1042,9 @@ title subject.cn.tld
 "PL" :17
 "aig" :29
 "panasonic" :53
-"cu" :59032
+"cu" :59037
 "weber" :1491
-"xn--55qx5d" :12207
+"xn--55qx5d" :12211
 "In" :8
 "MO" :6
 "ubs" :4
@@ -1062,7 +1062,7 @@ title subject.cn.tld
 "Asia" :8
 "CH" :50
 "LB" :39
-"gw" :6598
+"gw" :6604
 "AO" :57
 "stockholm" :65
 "otsuka" :68
@@ -1098,7 +1098,7 @@ title subject.cn.tld
 "BS" :2
 "BM" :4
 "bbc" :56
-"edeka" :875
+"edeka" :878
 "airbus" :16
 "chase" :10
 "MADRID" :2
@@ -1129,7 +1129,7 @@ title subject.cn.tld
 "WS" :21
 "rwe" :8
 "DIGITAL" :20
-"toshiba" :84
+"toshiba" :86
 "xn--nqv7f" :222
 "jprs" :41
 "PE" :20
@@ -1147,7 +1147,7 @@ title subject.cn.tld
 "TECH" :24
 "FARM" :4
 "XYZ" :86
-"channel" :519
+"channel" :520
 "Software" :4
 "xn--2scrj9c" :160
 "mutual" :9
@@ -1221,7 +1221,7 @@ title subject.cn.tld
 "ANZ" :12
 "LIFE" :10
 "UG" :5
-"google" :55430
+"google" :55442
 "ice" :10
 "ZONE" :4
 "xn--d1alf" :260
@@ -1468,7 +1468,7 @@ title subject.cn.tld
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.exponent
-"65537" :2872451355
+"65537" :2873051174
 "3" :148
 "94779" :5
 "36327" :3
@@ -1517,7 +1517,7 @@ title subject_public_key_info.public_key.exponent
 ```mermaid
 pie showData
 title issuer
-"Google UK Ltd." :133163
+"Google UK Ltd." :133165
 "STRAC" :2
 "Foundation for Trusted Identity" :2
 "TSCP Inc." :3
@@ -1628,13 +1628,13 @@ title issuer
 "SwissSign AG" :3
 "Apple Inc." :2
 "GoDaddy.com, Inc." :10268232
-"GlobalSign nv-sa" :1204803
+"GlobalSign nv-sa" :1204817
 "GlobalSign nv-sa" :491962
-"GlobalSign nv-sa" :1981748
+"GlobalSign nv-sa" :1981838
 "Starfield Technologies, Inc." :1164178
 "GlobalSign nv-sa" :664263
 "GlobalSign nv-sa" :76825
-"GlobalSign nv-sa" :52992
+"GlobalSign nv-sa" :52993
 "GlobalSign nv-sa" :87378
 "Česká pošta, s.p." :3313
 "Rede Nacional de Ensino e Pesquisa - RNP" :19552
@@ -1643,23 +1643,23 @@ title issuer
 "SOLUTI - SOLUCOES EM NEGOCIOS INTELIGENTES S-A" :96
 "ATT Services Inc" :29970
 "DigiCert Inc" :1757129
-"Sectigo Limited" :98427492
-"Internet2" :1337617
+"Sectigo Limited" :98450417
+"Internet2" :1337655
 "SecureCore" :74557
 "SECOM Trust Systems CO.,LTD." :85574
-"DigiCert Inc" :7887377
+"DigiCert Inc" :7887565
 "Network Solutions L.L.C." :323986
 "DigiCert Inc" :548816
-"GoGetSSL" :565201
-"SSL Corporation" :313103
+"GoGetSSL" :565289
+"SSL Corporation" :313132
 "The USERTRUST Network" :193479
-"Sectigo Limited" :2489293
+"Sectigo Limited" :2489297
 "Government of Korea" :2490
 "DigiCert Inc" :25892
 "DigiCert Inc" :628813
 "DigiCert Inc" :2454400
-"DigiCert Inc" :410352
-"DigiCert Inc" :39522583
+"DigiCert Inc" :410354
+"DigiCert Inc" :39522585
 "SECOM Trust Systems CO.,LTD." :86226
 "DigiCert Inc" :10885
 "DigiCert Inc" :974
@@ -1669,7 +1669,7 @@ title issuer
 "UniTrust" :3147
 "FUJIFILM" :872
 "DigiCert Inc" :2270
-"DigiCert Inc" :75286014
+"DigiCert Inc" :75286019
 "Trust Provider B.V." :71795
 "The Trustico Group Ltd" :35718
 "DigiCert Inc" :291763
@@ -1683,11 +1683,11 @@ title issuer
 "COMODO CA Limited" :764682
 "Verein zur Foerderung eines Deutschen Forschungsnetzes e. V." :242210
 "EUNETIC GmbH" :23213
-"DigiCert Inc" :1343986
+"DigiCert Inc" :1344067
 "Soluciones Corporativas IP, SL" :118647
 "DigiCert Inc" :51587
 "Fraunhofer" :19073
-"Alpiro s.r.o." :29415
+"Alpiro s.r.o." :29417
 "DigiCert Inc" :680
 "Sectigo Limited" :2110
 "Network Solutions L.L.C." :91475
@@ -1695,11 +1695,11 @@ title issuer
 "DigiCert Inc" :1094
 "DigiCert Inc" :8538
 "Technische Universitaet Ilmenau" :1076
-"DigiCert Inc" :725690
+"DigiCert Inc" :725769
 "Karlsruhe Institute of Technology" :5476
 "DigiCert Inc" :26055
 "Microsec Ltd." :1981
-"Gandi" :1645239
+"Gandi" :1645243
 "TBS INTERNET" :15892
 "Siemens" :4
 "Corporation Service Company" :142057
@@ -1721,7 +1721,7 @@ title issuer
 "DigiCert Inc" :3021
 "K Software" :1596
 "DigiCert Inc" :20713
-"TrustAsia Technologies, Inc." :3768990
+"TrustAsia Technologies, Inc." :3768992
 "WoTrus CA Limited" :32058
 "Apple Inc." :7811
 "Cybertrust Japan Co., Ltd." :74009
@@ -1806,7 +1806,7 @@ title issuer
 "TeliaSonera" :24656
 "CERTDATA SERVICOS DE INFORMACAO LTDA" :296
 "MarketWare - Soluções para Mercados Digitais, Lda." :873
-"HydrantID (Avalanche Cloud Corporation)" :1682149
+"HydrantID (Avalanche Cloud Corporation)" :1682152
 "VTB BANK (PJSC)" :265
 "sslTrus" :777
 "Government of Korea" :332
@@ -1816,7 +1816,7 @@ title issuer
 "DigiCert Inc" :36719
 "Site Blindado S.A." :2156
 "KICA" :12
-"IdenTrust" :6156643
+"IdenTrust" :6156943
 "IdenTrust" :12429
 "DigiCert Inc" :220
 "Corporation Service Company" :16244
@@ -1867,7 +1867,7 @@ title issuer
 "DigiCert Inc" :654
 "SECOM Trust Systems CO.,LTD." :4648
 "DigiCert Inc" :171844
-"Entrust, Inc." :1417337
+"Entrust, Inc." :1417397
 "WoTrus CA Limited" :236
 "Sectigo Limited" :116255
 "Turing Crypto GmbH" :16
@@ -1906,10 +1906,10 @@ title issuer
 "Domain The Net Technologies Ltd" :2682
 "D-Trust GmbH" :42724
 "DigiCert Inc" :520
-"One Sign Pte. Ltd." :1769
+"One Sign Pte. Ltd." :1771
 "DigiCert Inc" :2042
-"Microsoft Corporation" :4558034
-"Microsoft Corporation" :4544275
+"Microsoft Corporation" :4558126
+"Microsoft Corporation" :4544360
 "Global Digital Cybersecurity Authority Co., Ltd." :452
 "Ziwit" :1178
 "Entrust, Inc." :1275
@@ -1923,19 +1923,19 @@ title issuer
 "DigiCert Inc" :422326
 "DigiCert Inc" :76
 "Japan Registry Services Co., Ltd." :287335
-"Cloudflare, Inc." :151628982
+"Cloudflare, Inc." :151628990
 "Cisco Systems, Inc." :1047127
-"Cloudflare, Inc." :41025713
+"Cloudflare, Inc." :41025720
 "GEANT Vereniging" :949904
-"cPanel, Inc." :119985838
+"cPanel, Inc." :120025670
 "DigiCert Inc" :119503
-"ZeroSSL" :16380640
-"TrustCor Systems S. de R.L." :40320
+"ZeroSSL" :16394261
+"TrustCor Systems S. de R.L." :40321
 "Japan Registry Services Co., Ltd." :6410
 "NETLOCK Kft." :2522
 "Genious Communications" :8510
-"Unizeto Technologies S.A." :239190
-"DOMENY.PL sp. z o.o" :35696
+"Unizeto Technologies S.A." :239191
+"DOMENY.PL sp. z o.o" :35698
 "swissns GmbH" :844
 "McAfee, Inc." :4523
 "GEANT Vereniging" :30092
@@ -1962,7 +1962,7 @@ title issuer
 "SECOM Trust Systems CO.,LTD." :15223
 "SECOM Trust Systems CO.,LTD." :1488
 "TrustAsia Technologies, Inc." :3275
-"CerSign Technology Limited" :1318
+"CerSign Technology Limited" :1322
 "DigiCert Inc" :572
 "eMudhra Technologies Limited" :1962
 "Deutsche Post AG" :9322
@@ -1970,7 +1970,7 @@ title issuer
 "Quantum CA Limited" :6194
 "QuoVadis Trustlink B.V." :5516
 "DOMENY.PL sp. z o.o" :1222
-"cPanel, Inc." :754399
+"cPanel, Inc." :754465
 "Hellenic Academic and Research Institutions CA" :178
 "Digital Trust L.L.C." :984
 "Hellenic Academic and Research Institutions CA" :1218
@@ -1980,7 +1980,7 @@ title issuer
 "WidePoint" :54
 "Quantum CA Limited" :76
 "Apple Inc." :69
-"nazwa.pl sp. z o.o." :621115
+"nazwa.pl sp. z o.o." :621121
 "T-Systems International GmbH" :1176
 "Comodo Japan, Inc." :3773
 "sslTrus" :22
@@ -2011,7 +2011,7 @@ title issuer
 "Hellenic Academic and Research Institutions CA" :46
 "D-Trust GmbH" :344
 "KICA" :196
-"CertCloud Pte. Ltd." :48546
+"CertCloud Pte. Ltd." :48552
 "eMudhra Technologies Limited" :541
 "Alpiro s.r.o." :111
 "TRUSTCUBES LIMITED" :28
@@ -2020,7 +2020,7 @@ title issuer
 "GlobalSign nv-sa" :5522
 "DigiCert Inc" :62
 "GlobalSign nv-sa" :246
-"ZeroSSL" :20605848
+"ZeroSSL" :20610358
 "Amazon" :6
 "Amazon" :6
 "Amazon" :6
@@ -2038,13 +2038,13 @@ title issuer
 "Telia Finland Oyj" :75
 "Telia Finland Oyj" :70
 "Apple Inc." :228
-"Microsoft Corporation" :9501651
-"Microsoft Corporation" :9694851
+"Microsoft Corporation" :9502325
+"Microsoft Corporation" :9695577
 "NETLOCK Ltd." :57
 "FNMT-RCM" :332
 "Microsec Ltd." :600
-"TrustAsia Technologies, Inc." :30753
-"TrustAsia Technologies, Inc." :2124303
+"TrustAsia Technologies, Inc." :30755
+"TrustAsia Technologies, Inc." :2124421
 "Quantum CA Limited" :1262
 "Hellenic Academic and Research Institutions Cert. Authority" :114
 "DigiCert, Inc." :176
@@ -2200,7 +2200,7 @@ title issuer
 "Avalanche Cloud Corporation" :58
 "Microsoft Corporation" :6905
 "DigiCert Inc" :96
-"JoySSL Limited" :2665
+"JoySSL Limited" :2671
 "CONSEJO GENERAL DE LA ABOGACIA" :4
 "Consejo General de la Abogacia" :4
 "Consejo General de la Abogacia" :4
@@ -2301,8 +2301,8 @@ title issuer
 "E-SAFER CONSULTORIA EM TECNOLOGIA DA INFORMACAO LTDA" :77
 "TrustAsia Technologies, Inc." :32
 "Prodrive Technologies B.V." :422
-"DigiCert, Inc." :392672
-"DigiCert, Inc." :947179
+"DigiCert, Inc." :392673
+"DigiCert, Inc." :947180
 "e-commerce monitoring GmbH" :28
 "Genious Communications" :3
 "Quantum CA Limited" :6
@@ -2353,9 +2353,9 @@ title issuer
 "Abitab S.A." :208
 "Microsec Ltd." :561
 "GlobalSign nv-sa" :3657
-"GlobalSign nv-sa" :672464
+"GlobalSign nv-sa" :676282
 "Globalsign nv-sa" :10508
-"GlobalSign nv-sa" :673
+"GlobalSign nv-sa" :674
 "GlobalSign nv-sa" :151
 "E-SAFER CONSULTORIA EM TECNOLOGIA DA INFORMACAO LTDA" :15
 "Deutsche Telekom Security GmbH" :785
@@ -2572,9 +2572,9 @@ title issuer
 "SSLs.com" :13
 "AC Camerfirma SA" :5
 "GlobalSign nv-sa" :33871
-"KPN B.V." :22511
+"KPN B.V." :22512
 "DigiCert Grid" :10
-"QuoVadis Trustlink B.V." :16226
+"QuoVadis Trustlink B.V." :16245
 "Plex, Inc." :1913479
 "FNMT-RCM" :1595
 "D-Trust GmbH" :1
@@ -2626,14 +2626,14 @@ title issuer
 "INTEGRITY Security Services LLC" :6
 "PSW GROUP GmbH & Co. KG" :57
 "BitCert" :5
-"Google Trust Services LLC" :19804690
-"Google Trust Services LLC" :16148671
-"Let's Encrypt" :2448884365
-"Google Trust Services LLC" :116121
+"Google Trust Services LLC" :19808614
+"Google Trust Services LLC" :16159199
+"Let's Encrypt" :2449434651
+"Google Trust Services LLC" :116140
 "e-commerce monitoring GmbH" :10
 "e-commerce monitoring GmbH" :10
 "e-commerce monitoring GmbH" :12
-"Let's Encrypt" :91649157
+"Let's Encrypt" :91685337
 "SECOM Trust Systems CO.,LTD." :10
 "SECOM Trust Systems CO.,LTD." :10
 "INTEGRITY Security Services LLC" :3
@@ -2802,7 +2802,7 @@ title issuer
 "U.S. Government" :2
 "Unizeto Technologies S.A." :2
 "U.S. Government" :8
-"Google Trust Services LLC" :103806
+"Google Trust Services LLC" :103840
 "3S2N Sp. z o.o." :2
 "AS Sertifitseerimiskeskus" :8
 "Unizeto Technologies S.A." :2
@@ -3078,10 +3078,10 @@ title issuer
 ```mermaid
 pie showData
 title extensions.keyUsage
-"digitalSignature" :3313680887
-"keyEncipherment" :3300555524
+"digitalSignature" :3314369385
+"keyEncipherment" :3301155341
 "nonRepudiation" :427223127
-"dataEncipherment" :4626129
+"dataEncipherment" :4627706
 "keyAgreement" :408
 "cRLSign" :1
 "keyCertSign" :1
@@ -3089,148 +3089,148 @@ title extensions.keyUsage
 ```mermaid
 pie showData
 title extensions.basicConstraints.isCA
-"false" :3328604317
+"false" :3329292321
 "true" :889
 ```
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.curve
-"secp384r1" :79981972
-"prime256v1" :403117170
+"secp384r1" :79995695
+"prime256v1" :403192128
 "secp521r1" :6
 ```
 ```mermaid
 pie showData
 title extensions.certificatePolicies.type
-"OV" :300803285
-"DV" :3051253148
-"EV" :1217963
+"OV" :300805477
+"DV" :3051939453
+"EV" :1217964
 ```
 ```mermaid
 pie showData
 title extensions.subjectAlternativeName
-"1" :1432724984
+"1" :1433002077
 "0" :17622
-"2" :1446695291
-"3" :224536385
-"5" :24167861
-"4" :43946448
-"15" :1798286
-"11" :14588862
-"6" :17645449
-"12" :3705659
-"9" :38880364
-"14" :1507697
-"58" :29549
-"8" :44683160
-"26" :156451
-"10" :12906182
-"29" :86104
-"89" :18638
-"88" :20467
-"21" :875803
-"18" :1077749
-"13" :6196649
-"24" :4805701
-"7" :14225204
-"28" :121328
-"16" :1056983
-"20" :3807032
-"66" :33484
-"17" :858502
-"38" :68644
-"22" :5026728
-"100" :659074
-"19" :837104
-"41" :89598
-"25" :119244
-"87" :17204
-"96" :25790
-"60" :59924
-"64" :33248
-"86" :20769
+"2" :1447015437
+"3" :224569821
+"5" :24176695
+"4" :43956552
+"15" :1798564
+"11" :14592665
+"6" :17649258
+"12" :3706419
+"9" :38889539
+"14" :1508007
+"58" :29552
+"8" :44692451
+"26" :156476
+"10" :12909755
+"29" :86124
+"89" :18648
+"88" :20470
+"21" :875992
+"18" :1077920
+"13" :6197017
+"24" :4806239
+"7" :14228170
+"28" :121343
+"16" :1057240
+"20" :3807633
+"66" :33489
+"17" :858733
+"38" :68654
+"22" :5027285
+"100" :659249
+"19" :837229
+"41" :89636
+"25" :119267
+"87" :17215
+"96" :25801
+"60" :59934
+"64" :33249
+"86" :20771
 "125" :1339
-"42" :77369
-"79" :17088
-"27" :114076
-"30" :124816
-"62" :35901
+"42" :77390
+"79" :17124
+"27" :114099
+"30" :124847
+"62" :35904
 "697" :11
 "314" :41
 "101" :2918
-"33" :66698
-"23" :2887443
-"76" :24557
-"34" :91962
-"56" :33191
+"33" :66722
+"23" :2887965
+"76" :24563
+"34" :91974
+"56" :33195
 "215" :260
-"77" :17653
-"31" :67276
+"77" :17660
+"31" :67282
 "106" :1223
-"49" :140416
+"49" :140455
 "107" :1178
-"97" :14473
-"35" :65234
-"93" :16359
-"45" :69911
+"97" :14478
+"35" :65246
+"93" :16362
+"45" :69938
 "116" :1439
-"48" :109920
-"47" :80729
-"69" :24175
-"55" :27759
+"48" :109942
+"47" :80742
+"69" :24183
+"55" :27765
 "627" :10
 "356" :46
-"52" :137696
+"52" :137705
 "153" :527
-"99" :47388
-"67" :27718
-"98" :39072
-"32" :239493
-"83" :17258
-"91" :14959
-"78" :22080
+"99" :47408
+"67" :27722
+"98" :39084
+"32" :239518
+"83" :17259
+"91" :14968
+"78" :22088
 "579" :24
-"65" :25148
-"85" :17188
-"82" :20507
+"65" :25155
+"85" :17190
+"82" :20519
 "180" :628
-"61" :23413
-"36" :102772
-"81" :23295
-"68" :27865
-"80" :25615
-"40" :90926
-"94" :17153
-"39" :52218
-"43" :50068
-"37" :51099
-"74" :20831
-"44" :65577
-"46" :77547
+"61" :23424
+"36" :102801
+"81" :23313
+"68" :27867
+"80" :25634
+"40" :90938
+"94" :17162
+"39" :52223
+"43" :50077
+"37" :51107
+"74" :20835
+"44" :65595
+"46" :77561
 "231" :148
-"53" :204955
-"51" :1002553
-"50" :333975
-"57" :24088
-"59" :22804
-"54" :83182
-"75" :21197
-"84" :24964
-"95" :13905
+"53" :204959
+"51" :1002768
+"50" :334068
+"57" :24093
+"59" :22811
+"54" :83187
+"75" :21210
+"84" :24974
+"95" :13907
 "105" :1270
-"70" :27474
-"63" :21920
+"70" :27478
+"63" :21921
 "184" :535
 "263" :91
 "182" :387
 "186" :372
 "183" :279
-"90" :29206
-"72" :24659
+"90" :29212
+"72" :24664
 "136" :1056
 "137" :1551
 "104" :1488
-"73" :24391
+"73" :24422
 "160" :496
 "357" :61
 "176" :652
@@ -3239,8 +3239,8 @@ title extensions.subjectAlternativeName
 "313" :50
 "119" :1228
 "378" :57
-"92" :19977
-"71" :20588
+"92" :19984
+"71" :20596
 "310" :55
 "295" :55
 "453" :21
@@ -3368,10 +3368,10 @@ title extensions.subjectAlternativeName
 "148" :627
 "169" :379
 "396" :102
-"121" :1262
+"121" :1264
 "269" :78
 "127" :1440
-"159" :342
+"159" :344
 "172" :541
 "381" :45
 "163" :312
@@ -3428,7 +3428,7 @@ title extensions.subjectAlternativeName
 "268" :63
 "679" :6
 "249" :287
-"191" :203
+"191" :205
 "291" :107
 "493" :17
 "589" :9
@@ -4070,7 +4070,7 @@ title extensions.subjectAlternativeName
 "913" :2
 "644" :2
 "883" :2
-"711" :4
+"711" :6
 "760" :4
 "910" :2
 "763" :2
@@ -4093,7 +4093,7 @@ title extensions.subjectAlternativeName
 "936" :4
 "939" :12
 "773" :2
-"909" :2
+"909" :4
 "811" :4
 "498" :12
 "777" :2
@@ -4120,8 +4120,8 @@ title extensions.subjectAlternativeName
 ```mermaid
 pie showData
 title extensions.extendedKeyUsage
-"id_kp_serverAuth" :3355528828
-"id_kp_clientAuth" :3318219270
+"id_kp_serverAuth" :3356217328
+"id_kp_clientAuth" :3318893262
 "id_kp_ipsecEndSystem" :1009974
 "id_kp_emailProtection" :4395
 "2.16.840.1.113730.4.1" :4
@@ -4168,12 +4168,12 @@ title extensions.basicConstraints.pathLenConstraint
 ```mermaid
 pie showData
 title subject_public_key_info.public_key.modulus
-"2048" :2468480502
-"4096" :379813757
+"2048" :2468992468
+"4096" :379895907
 "1024" :171
 "2047" :2
-"3072" :24145052
-"8192" :11832
+"3072" :24150754
+"8192" :11833
 "6144" :37
 "2432" :55
 "2064" :3
@@ -5331,7 +5331,7 @@ title validity_range
 "609" :446
 "631" :459
 "597" :391
-"1" :339918
+"1" :340660
 "593" :322
 "587" :288
 "682" :742
@@ -5982,45 +5982,45 @@ title validity_range
 "154" :3268
 "153" :8440
 "152" :3623
-"151" :3376
+"151" :3380
 "150" :2791
 "148" :2870
 "149" :3072
 "145" :2794
 "146" :3069
 "147" :2938
-"144" :2801
+"144" :2805
 "143" :2665
-"142" :2879
+"142" :2881
 "141" :3064
 "140" :3413
 "139" :3001
 "138" :2836
-"137" :2693
+"137" :2695
 "136" :2646
 "135" :2865
-"132" :2621
+"132" :2623
 "131" :2567
 "134" :3022
-"133" :2950
+"133" :2951
 "130" :2501
 "129" :2447
 "128" :2718
 "127" :2626
 "126" :2854
 "125" :2710
-"124" :2751
-"122" :3606
+"124" :2771
+"122" :3609
 "123" :2888
-"121" :2945
+"121" :2947
 "120" :7255
 "119" :4145
-"118" :2762
+"118" :2764
 "117" :2741
 "116" :2336
 "115" :2512
 "114" :2765
-"113" :2663
+"113" :2664
 "112" :2687
 "111" :2425
 "110" :2781
@@ -6091,12 +6091,12 @@ title validity_range
 "3271" :2
 "107" :2384
 "106" :2665
-"105" :2670
-"103" :95446
+"105" :2671
+"103" :95468
 "104" :2336
 "102" :2180
-"101" :2268
-"100" :2759
+"101" :2269
+"100" :2764
 "99" :3042
 "97" :2640
 "96" :3109
@@ -6104,14 +6104,14 @@ title validity_range
 "95" :16802
 "94" :15291
 "93" :18784
-"92" :69697
-"91" :217967
-"89" :2578434700
-"90" :223458693
+"92" :69702
+"91" :217968
+"89" :2579035662
+"90" :223541250
 "88" :22098
-"87" :17467
+"87" :17469
 "86" :17991
-"85" :17901
+"85" :17903
 "84" :8722
 "83" :68634
 "82" :2920
@@ -6119,15 +6119,15 @@ title validity_range
 "79" :2861
 "80" :2813
 "78" :2811
-"77" :2759
+"77" :2761
 "76" :2728
 "75" :2582
 "74" :2552
-"73" :2385
+"73" :2387
 "72" :2558
-"71" :2660
+"71" :2662
 "70" :2551
-"69" :8331
+"69" :8337
 "68" :2451
 "66" :2370
 "67" :2478
@@ -6135,68 +6135,68 @@ title validity_range
 "64" :3017
 "63" :2797
 "61" :4818
-"62" :3442
+"62" :3444
 "60" :5319
-"59" :4615
-"58" :59590
+"59" :4619
+"58" :59592
 "57" :3871
 "56" :4261
 "55" :2803
-"54" :2641
+"54" :2643
 "53" :2500
-"52" :2408
-"51" :2615
-"50" :2443
+"52" :2410
+"51" :2616
+"50" :2445
 "49" :2342
 "48" :2494
 "47" :2258
-"46" :3925
-"45" :14157
-"44" :103214
-"43" :6996
+"46" :3926
+"45" :14159
+"44" :103248
+"43" :6997
 "42" :6605
-"41" :4874
-"40" :3678
-"39" :7944
+"41" :4892
+"40" :3680
+"39" :7947
 "38" :3265
 "37" :83029
-"36" :425534
-"35" :384967
-"34" :518343
-"33" :612212
-"32" :431341
-"31" :1752022
-"30" :1922123
-"29" :205890
-"28" :242925
-"27" :2994
+"36" :425559
+"35" :384989
+"34" :518374
+"33" :612320
+"32" :431355
+"31" :1752304
+"30" :1922255
+"29" :205898
+"28" :242926
+"27" :2995
 "26" :2027
 "25" :3133
 "24" :2863
 "2550" :4
-"23" :2711
+"23" :2713
 "22" :4095
-"21" :10151
-"19" :19122
-"20" :4533
-"18" :4230
-"17" :3048
-"16" :2932
-"15" :93465
-"14" :65082
+"21" :10160
+"19" :19123
+"20" :4534
+"18" :4232
+"17" :3050
+"16" :2933
+"15" :93466
+"14" :65084
 "13" :6040
 "12" :31362
-"11" :160272
-"10" :19004
+"11" :160309
+"10" :19025
 "9" :2668
 "8" :1823
-"6" :2796
+"6" :2797
 "7" :15393
 "4" :1908
-"5" :1374
+"5" :1376
 "3" :2101
-"2" :5716
-"0" :1662015
+"2" :5720
+"0" :1665374
 "3662" :1
 "3645" :1
 "2235" :1
@@ -6208,12 +6208,12 @@ title validity_range
 ```mermaid
 pie showData
 title sigalg
-"SHA256WITHRSA" :3025664406
+"SHA256WITHRSA" :3026295551
 "SHA1WITHRSA" :2901
-"SHA384WITHRSA" :54892146
+"SHA384WITHRSA" :54907604
 "SHA512WITHRSA" :86205
-"SHA384WITHECDSA" :113795164
-"SHA256WITHECDSA" :161162573
+"SHA384WITHECDSA" :113836953
+"SHA256WITHECDSA" :161162681
 "1.2.840.6.15245.1.1.5" :2
 "RSAPSS" :3
 "SHA256WITHDSA" :10
